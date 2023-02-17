@@ -1,4 +1,4 @@
-module github.com/hashicorp/mdns
+module github.com/narvikd/mdns
 
 go 1.20
 
